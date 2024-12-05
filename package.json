@@ -64,7 +64,7 @@
 		"array-move": "^4.0.0",
 		"react-window": "^1.8.10",
 		"uuid": "^9.0.1",
-		"wp-types": "^3.65.0"
+		"wp-types": "^3.66.1"
 	},
 	"devDependencies": {
 		"@10up/cypress-wp-utils": "github:10up/cypress-wp-utils#build",
