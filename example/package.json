@@ -22,7 +22,7 @@
 		"@wordpress/data": "^9.21.1",
 		"@wordpress/env": "^9.9.0",
 		"@wordpress/eslint-plugin": "^18.0.0",
-		"@wordpress/scripts": "^27.8.0"
+		"@wordpress/scripts": "^29.0.0"
 	},
 	"dependencies": {
 		"@10up/block-components": "file:../dist/index.js",
